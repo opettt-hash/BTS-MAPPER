@@ -34,6 +34,7 @@ Aplikasi ini menggunakan **SQLite** sebagai database sehingga ringan, portable, 
   
 ---
 
-## Lisensi
+## Contack & Lisensi 
+Telegram: [@rolandino28](https://t.me/@rolandino28)
 Proyek ini open source, bebas digunakan dan dikembangkan lebih lanjut.  
 
