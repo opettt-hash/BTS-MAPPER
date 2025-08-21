@@ -14,8 +14,8 @@ Aplikasi ini menggunakan **SQLite** sebagai database sehingga ringan, portable, 
 ---
 
 ## Konfigurasi
-- **Database:** SQLite, file: `db/btsmapper.sqlite`  
-  - Dibuat secara otomatis oleh `db_init.php`.  
+- **Database:** SQLite, file: `db/btsmapper.sqlite`
+- Dibuat secara otomatis oleh `db_init.php`.  
 - **Exports:** semua hasil export data tersimpan dalam format JSON pada folder `exports/`.  
 - **Map Tile:** menggunakan OpenStreetMap (dapat diganti ke penyedia lain seperti Mapbox atau Google Maps dengan modifikasi kecil di `index.php`).  
 
