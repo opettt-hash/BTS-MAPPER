@@ -24,6 +24,7 @@ Aplikasi ini menggunakan **SQLite** sebagai database sehingga ringan, portable, 
 ---
 
 ## Struktur Direktori
+
 /btsmapper
 - index.php # Halaman utama (peta interaktif & sidebar)
 - export.php # Script export data JSON
@@ -33,7 +34,10 @@ Aplikasi ini menggunakan **SQLite** sebagai database sehingga ringan, portable, 
 - js/ # File JavaScript (LeafletJS)
 - db/ # Folder database (SQLite)
 - exports/ # Folder hasil export JSON
-  
+
+<img src="yaping1.jpg" alt="IP Result" width="100%">
+
+<img src="yaping2.jpg" alt="IP Result" width="100%">
 ---
 
 ## Contack & Lisensi 
