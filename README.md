@@ -35,9 +35,9 @@ Aplikasi ini menggunakan **SQLite** sebagai database sehingga ringan, portable, 
 - db/ # Folder database (SQLite)
 - exports/ # Folder hasil export JSON
 
-<img src="yaping1.jpg" alt="IP Result" width="100%">
+<img src="yaping1.jpg" alt="IP Result" width="50%">
 
-<img src="yaping2.jpg" alt="IP Result" width="100%">
+<img src="yaping2.jpg" alt="IP Result" width="50%">
 
 ---
 
