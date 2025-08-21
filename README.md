@@ -22,3 +22,12 @@ Aplikasi ini menggunakan **SQLite** sebagai database sehingga ringan, portable, 
 ---
 
 ## Struktur Direktori
+/btsmapper
+├── index.php # Halaman utama (peta interaktif & sidebar)
+├── export.php # Script export data JSON
+├── import.php # Script import data JSON
+├── db_init.php # Inisialisasi database SQLite
+├── assets/ # File CSS
+├── js/ # File JavaScript (LeafletJS)
+├── db/ # Folder database (SQLite)
+└── exports/ # Folder hasil export JSON
