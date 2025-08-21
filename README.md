@@ -31,3 +31,9 @@ Aplikasi ini menggunakan **SQLite** sebagai database sehingga ringan, portable, 
 - js/ # File JavaScript (LeafletJS)
 - db/ # Folder database (SQLite)
 - exports/ # Folder hasil export JSON
+  
+---
+
+## Lisensi
+Proyek ini open source, bebas digunakan dan dikembangkan lebih lanjut.  
+
