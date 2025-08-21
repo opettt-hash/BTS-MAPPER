@@ -1,4 +1,4 @@
-# BTS-MAPPER 
+# BTS-MAPPER 📡
 
 **BTS Mapper** adalah aplikasi web berbasis **PHP** dan **LeafletJS** untuk visualisasi **BTS sector**, **Line of Bearing (LOB)**, serta triangulasi pada peta interaktif.  
 Aplikasi ini menggunakan **SQLite** sebagai database sehingga ringan, portable, dan mudah dijalankan di berbagai server PHP.
